@@ -1,0 +1,2 @@
+
+ ecli run package.json
