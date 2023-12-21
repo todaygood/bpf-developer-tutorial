@@ -2,7 +2,8 @@
 # 问题
 
 如何调试我写的ebpf程序？ 
-
+ 如何写ebpf内核程序？
+ 如何查询bpf函数?
 
 
 https://github.com/cilium/ebpf

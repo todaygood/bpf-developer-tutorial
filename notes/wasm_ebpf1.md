@@ -9,8 +9,10 @@ WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based 
 
 
 
-## kcd 
+## kcd 2023 ppt 
+
+视频，在B站搜索KCD
 
 https://github.com/cncf/kubernetes-community-days/issues/503
 
-
+add slides for kcd shenzhen 2023
