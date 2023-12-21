@@ -1,5 +1,6 @@
 # 学习笔记
 
+这个项目是enom
 
 https://github.com/eunomia-bpf/libbpf-starter-template
 
