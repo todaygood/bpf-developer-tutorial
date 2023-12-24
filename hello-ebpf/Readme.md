@@ -1,5 +1,8 @@
 # cillium ebpf 
 
+
+
+
 实际上是ebpf-go 
 
 https://ebpf-go.dev/guides/getting-started/#building-and-running-the-go-application
@@ -68,5 +71,21 @@ Linux debian12 6.1.0-9-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.27-1 (2023-05-08)
 
 git clone 之后hello-ebpf 没有了go.mod 文件，是怎么回事？ 
 
+
+
+# coolbpf 
+
+
+https://gitee.com/anolis/surftrace
+
+surftrace是一个ftrace封装器和开发编译平台，既能让用户基于libbpf快速构建工程进行开发，也能作为ftrace的封装器进行trace命令编写。项目包含surftrace工具集和pylcc、glcc(python or generic C language for libbpf Compiler Collection)，提供远程和本地eBPF的编译能力。
+
+
+## 特点
+
+
+## 本地编译
+
+https://gitee.com/anolis/coolbpf/blob/master/docs/localcompile.md
 
 
